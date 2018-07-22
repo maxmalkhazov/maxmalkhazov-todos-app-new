@@ -27,7 +27,7 @@ html {
 }
 
 body {
-    background: #2B292E;
+  background: #2B292E;
   color: #fafafa;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.6rem;
@@ -38,7 +38,7 @@ button {
 }
 
 a {
-    color: #6F439C;
+    color: #1976D2;
 }
 
 /* Container */
@@ -52,7 +52,7 @@ a {
 /* Header */
 
 .header {
-  background: #6F439C;
+  background: #1976D2;
   color:white;
   padding: 1.6rem 0;
 }
@@ -111,9 +111,9 @@ a {
 }
 
 .button {
-    background: #7044a0;
+    background: #1976D2;
     border: none;
-    border-bottom: 2px solid #603a88;
+    border-bottom: 2px solid #3498db;
     color: white;
     font-size: 1.4rem;
     font-weight: 300;
@@ -122,7 +122,7 @@ a {
 }
 
 .button:hover {
-    background: #5F3A87;
+    background: #0984e3;
 }
 
 .button--secondary {
